@@ -1,1 +1,1 @@
-#index7.html
+(https://oleksii-787.github.io/group-schedule/)
